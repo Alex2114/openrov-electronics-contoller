@@ -5,10 +5,14 @@ Electronics for OpenROV.  Include schematics, gerbers and other files + diagrams
 
 Version
 =======
-2.6
+2.7
 
 What
 ====
+
+* For OpenROV v2.6 See the OpenROV Controller 2.6.
+>It is a all-in-one power and control board that has an Arduino based Atmega 2560 aboard. Tons of I/O, and is designed to fit both the BeagleBone Black and the original BeagleBone
+
 
 * For OpenROV v2.5 See the OpenROV Controller 2.5B.
   >It is a all-in-one power and control board that has an Arduino based Atmega 2560 aboard. Tons of I/O, and is designed to fit both the BeagleBone Black and the original BeagleBone
